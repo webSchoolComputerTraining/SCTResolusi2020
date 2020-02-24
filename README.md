@@ -1,2 +1,2 @@
 # SCTResolusi2020
-Repository for plaining this year
+Resolusi for plaining this year
